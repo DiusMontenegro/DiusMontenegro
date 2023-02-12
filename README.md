@@ -59,9 +59,9 @@ I'm a passionate <i>Front-End Developer</i> and aspiring <i>Software Engineer</i
 
 <a href="http://www.github.com/DreaUltimate"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DreaUltimate&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
+<b>Top Deployments from Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/DreaUltimate/dstube_ytclone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreaUltimate&repo=dstube_ytclone&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/DreaUltimate/REA-AI_chatbot_by_dius" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreaUltimate&repo=REA-AI_chatbot_by_dius&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="[https://github.com/DreaUltimate/dstube_ytclone](https://dstube.onrender.com/)" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreaUltimate&repo=dstube_ytclone&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="[https://github.com/DreaUltimate/REA-AI_chatbot_by_dius](https://rea-ai-by-dius-gg4mh32u4-dreaultimate.vercel.app/)" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreaUltimate&repo=REA-AI_chatbot_by_dius&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 <a href="https://github.com/DreaUltimate" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreaUltimate&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
