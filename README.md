@@ -48,7 +48,7 @@ I'm a passionate <i>Front-End Developer</i> and aspiring <i>Software Engineer</i
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDreaUltimate&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
 
-## Badges
+## 👑 Badges
 
 
 
