@@ -16,6 +16,7 @@ I'm a passionate <i>Front-End Developer</i> and aspiring <i>Software Engineer</i
 - 🇵🇱   Located in Pres. Roxas, North Cotabato, Philippines. 
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about web development, writing code, and making things happen.
+- 😅 Willing to make a change & accepts mistakes to improve.
 
 ## Socials
 
