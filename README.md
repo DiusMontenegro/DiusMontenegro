@@ -2,7 +2,7 @@
 
 I'm a passionate <i>Front-End Developer</i> and aspiring <i>Software Engineer</i>, born in the <strong>Philippines</strong> and having lived and worked in various places in <strong>Mindanao</strong>. I'm a self-taught coder, driven by my love of tech innovation since I was a child. I'm also a quick learner, always eager to take on new challenges!
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/dius-m-222419253/">
+ <a href="https://www.linkedin.com/in/dius-santos-iii-montenegro-86707428b/">
   <img src="https://img.shields.io/badge/linkedin-Dius%20Montenegro-blue?style=round-square&logo=linkedin">
  </a>
  <a href="mailto:montenegrodiussantos1@gmail.com">
