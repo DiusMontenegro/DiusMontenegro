@@ -12,7 +12,7 @@ I'm a passionate <i>Front-End Developer</i> and aspiring <i>Software Engineer</i
 
 - 📄   I’m a **Front-End Web Developer** with various coding experience.
 - 💻   Interested in software engineering, front-end development, back-end development & full-stack development. 
-- 📫   How to reach me: [Email](mailto:montenegrodiussantos1@gmail.com "montenegrodiussantos1@gmail.com") || [LinkedIn](https://www.linkedin.com/in/dius-m-222419253/ "Dius-Montenegro")
+- 📫   How to reach me: [Email](mailto:montenegrodiussantos1@gmail.com "montenegrodiussantos1@gmail.com") || [LinkedIn]([https://www.linkedin.com/in/dius-m-222419253/ "Dius-Montenegro"](https://www.linkedin.com/in/dius-santos-iii-montenegro-86707428b/))
 - 🇵🇱   Located in Pres. Roxas, North Cotabato, Philippines. 
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about web development, writing code, and making things happen.
