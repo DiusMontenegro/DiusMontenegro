@@ -58,11 +58,6 @@ I'm a <i>Front-End Developer</i> and aspiring <i>Software Engineer</i>. I'm a pa
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FDreaUltimate&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
 
-## 👑 Top Languages
-
-<a href="https://github.com/DreaUltimate" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreaUltimate&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 ---
 
 ## 🧑🏻 What I do when I'm not writing code
