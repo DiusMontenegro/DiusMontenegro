@@ -1,6 +1,6 @@
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Dius Montenegro
 
-I'm a <i>Front-End Developer</i> and aspiring <i>Software Engineer</i>. I'm a passionate coder, driven by my love of tech innovation. I'm also a quick learner, always eager to take on new challenges!
+I'm a trained <i>Full stack developer</i> and a passionate coder, driven by my love of tech innovation. I'm also a quick learner, always eager to take on new challenges!
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/dius-santos-iii-montenegro-86707428b/">
   <img src="https://img.shields.io/badge/linkedin-Dius%20Montenegro-blue?style=round-square&logo=linkedin">
