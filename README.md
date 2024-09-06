@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SkillBox - Stackoverflow clone with AI**
 
-- 🌱 I’m currently learning **NEXT.js, Typescript and Supabase**
+- 🌱 I’m currently learning **NEXT.js, Typescript and MongoDB/Supabase**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sepia-zeta-35.vercel.app/](https://portfolio-sepia-zeta-35.vercel.app/)
 
