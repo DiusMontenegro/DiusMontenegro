@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diusmontenegro&label=Profile%20views&color=0e75b6&style=flat" alt="diusmontenegro" /> </p>
 
-- 🔭 I’m currently working on **Eye Titanium+ - A Dropshipping E-commerce website with a lot of cool features**
+- 🔭 I’m currently working on **Eye Titanium+ Official Webstore - An E-commerce website selling eyeglass frames mostly titanium material with a lot of cool features**
 
-- 🌱 I’m currently learning **NEXT.js, Typescript and MongoDB/Supabase**
+- 🌱 I’m currently learning **NEXT.js, Typescript and Wix Studio**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sepia-zeta-35.vercel.app/](https://portfolio-sepia-zeta-35.vercel.app/)
 
