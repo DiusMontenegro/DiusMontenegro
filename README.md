@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.js, Typescript and Wix Studio**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sepia-zeta-35.vercel.app/](https://diusmontenegro.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://diusmontenegro.app/](https://diusmontenegro.vercel.app/)
 
 - 💬 Ask me about **React.js, TailwindCss, DaisyUi**
 
